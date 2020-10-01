@@ -1,0 +1,26 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/* fichier css container */
+@import url("components/container.css");
+/* fichier css avatar */
+@import url("components/avatar.css");
+/* fichier css button*/
+@import url("components/button.css");
+/* fichier css banner */
+@import url("components/banner.css");
+/* fichier css card */
+@import url("components/card.css");
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2, h3{
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
